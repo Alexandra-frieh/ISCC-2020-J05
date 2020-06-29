@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <head>
+   
+<link rel="stylesheet" href="style/vitrine.css">
+</head>
+<?php include("header.php"); ?>
+<?php include("navigation.php"); ?>
+
+<h2>ACCUEIL</h2>
+
+<body>
+
+<p>
+    <br> Le numérique, nouvelle ère de l’humanité, source d’innovation et de performance ?
+Pour mieux comprendre cette révolution, venez apprendre les rudiments du code et
+découvrir les bases de la programmation des sites internet. Destiné aux étudiants,
+ce code camp vous initiera en un mois aux principaux langages de programmation
+Web (HTML-CSS et PHP), vous dévoilera le fonctionnement d’outils comme Google ou Paypal et vous éclaira sur la sécurité des sites internet.
+</p>
+<div class="image"> 
+    <img src="inf182_epitech_digital_01.jpg" class="flotte" alt="Photo Epitech">
+</div>
+   <p style="line-height:40px;">
+
+   
+
+   <?php include("footer.php"); ?>
+
+
+
+</body>
+
+
+
+
+</html>
